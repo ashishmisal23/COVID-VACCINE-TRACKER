@@ -21,7 +21,6 @@ This project is a COVID-19 vaccine tracker web application that provides real-ti
 ### Technologies Used:
 
 - **Frontend**: HTML, CSS, JavaScript
-- **Framework**: React.js
 - **Deployment**: Vercel
 
 ### Contributing:
